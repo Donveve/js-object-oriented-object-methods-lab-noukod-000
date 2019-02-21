@@ -1,1 +1,3 @@
-fontctiom BoardMember()
+fonction BoardMember(name, homeState,training){
+  
+}
